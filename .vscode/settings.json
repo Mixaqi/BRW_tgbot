@@ -10,7 +10,7 @@
         "**/.idea": true,
         "**/.mypy_cache": true,
         "**/.pytest_cache": true,
-        "**/venv": false
+        "**/venv": true
     },
     "explorerExclude.backup": {}
 }
